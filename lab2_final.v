@@ -2,7 +2,7 @@
 //////////////////////////////////////////////////////////////////////////////////
 // Company: Uppsala University
 // Engineer: Mahdad Davari (mahdad.davari@it.uu.se)
-// 
+// Course: 1DT109
 // Create Date: 04/17/2017 04:34:00 PM
 // Design Name: 
 // Module Name: mat_mul
